@@ -12,4 +12,4 @@ Differences from google samples image:
 
 
 
-Please refer to the [./README_ORIGINAL.md]() for more details.
+Please refer to the [README_ORIGINAL.md]() for more details.
